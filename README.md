@@ -16,5 +16,3 @@
 ---
 If you have suggestions, improvements, or new configuration files to add, please feel free to contribute!
 
-
-
