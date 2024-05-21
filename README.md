@@ -1,7 +1,7 @@
 # My DotFiles for Fedora 39 , Debian 12 , And Arch linux
 
 
-![image](~/.config/assets/swappy-20240521-184609.png)
+![image](https://github.com/mr-revoo/dotfiles/blob/master/assets/swappy-20240521-184609.png)
 
 #### Special Thanks to these People for helping and sharing their conf files
 ##### [JAMmIKA1](https://github.com/JAMmIKA1)
