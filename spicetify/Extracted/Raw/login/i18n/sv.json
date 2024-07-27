@@ -10,6 +10,7 @@
   "desktop-auth.login.log-in-with-browser": "Logga in",
   "desktop-auth.login.new-to-spotify": "Har du inte använt Spotify förut?",
   "desktop-auth.login.sign-up-with-browser": "Registrera dig gratis",
+<<<<<<< HEAD
   "desktop.login.PreferencesLink": "Inställningar",
   "desktop.login.Back": "Tillbaka",
   "desktop-auth.login.preview-experience": "Förhandsvisa upplevelsen",
@@ -25,6 +26,17 @@
   "desktop.settings.proxy.port": "Port",
   "desktop.settings.proxy.user": "Användarnamn",
   "desktop.settings.proxy.pass": "Lösenord",
+=======
+  "desktop.login.Back": "Tillbaka",
+  "desktop.login.PreferencesLink": "Inställningar",
+  "desktop-auth.login.preview-experience": "Förhandsvisa upplevelsen",
+  "close": "Stäng",
+  "desktop-auth.login.signup-time-out": "Registreringen löpte ut. Försök igen.",
+  "desktop-auth.login.login-time-out": "Inloggningen löpte ut. Försök igen.",
+  "desktop-auth.login.redirect-to-browser-signup": "Omdirigerar till webbläsare för att slutföra registreringen",
+  "desktop-auth.login.redirect-to-browser-login": "Omdirigerar till webbläsare för att slutföra inloggningen",
+  "page.loading": "Läser in",
+>>>>>>> origin/master
   "desktop.login.UnknownLoginErrorMessage": "Tjänsten är inte tillgänglig för tillfället. Försök igen senare.",
   "desktop.login.DefaultErrorMessage": "En brandvägg kanske blockerar Spotify. Ändra dess inställningar så att Spotify får komma genom den. Du kan också pröva att ändra de aktuella <a href=\"#\" data-action=\"%0%\">proxyinställningarna</a>",
   "desktop.login.SessionTerminatedMessage": "Din session har avslutats",
@@ -49,5 +61,14 @@
   "desktop.settings.proxy.http": "HTTP",
   "desktop.settings.proxy.socks4": "SOCKS4",
   "desktop.settings.proxy.socks5": "SOCKS5",
+<<<<<<< HEAD
+=======
+  "desktop.settings.proxy.title": "Proxyinställningar",
+  "desktop.settings.proxy.type": "Proxytyp",
+  "desktop.settings.proxy.host": "Värd",
+  "desktop.settings.proxy.port": "Port",
+  "desktop.settings.proxy.user": "Användarnamn",
+  "desktop.settings.proxy.pass": "Lösenord",
+>>>>>>> origin/master
   "settings.restartApp": "Starta om appen."
 }

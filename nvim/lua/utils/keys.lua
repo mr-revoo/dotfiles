@@ -1,4 +1,5 @@
 vim.keymap.set("n", "<leader>bd", ":bd<CR>")
+<<<<<<< HEAD
 
 -- Key mappings for copying (yanking) and cutting (deleting)
 vim.keymap.set('n', '<C-c>', '"+y')   -- Copy to system clipboard in normal mode
@@ -12,3 +13,5 @@ vim.keymap.set('v', '<C-v>', '"+p')   -- Paste from system clipboard in visual m
 
 -- Key mapping to make the current file executable
 vim.keymap.set("n", "<leader>+x", "<cmd>!chmod +x %<CR>", { silent = true, desc = "chmod +x current_file" })
+=======
+>>>>>>> origin/master

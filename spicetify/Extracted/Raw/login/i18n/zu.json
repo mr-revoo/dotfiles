@@ -10,6 +10,7 @@
   "desktop-auth.login.log-in-with-browser": "Ngena ngemvume",
   "desktop-auth.login.new-to-spotify": "Umusha ku-Spotify?",
   "desktop-auth.login.sign-up-with-browser": "Bhalisa mahhala",
+<<<<<<< HEAD
   "desktop.login.PreferencesLink": "Amasethingi",
   "desktop.login.Back": "Emuva",
   "desktop-auth.login.preview-experience": "Buka kuqala ukuzizwisa",
@@ -25,6 +26,17 @@
   "desktop.settings.proxy.port": "Imbobo",
   "desktop.settings.proxy.user": "Igama lomsebenzisi",
   "desktop.settings.proxy.pass": "Iphasiwedi",
+=======
+  "desktop.login.Back": "Emuva",
+  "desktop.login.PreferencesLink": "Amasethingi",
+  "desktop-auth.login.preview-experience": "Buka kuqala ukuzizwisa",
+  "close": "Vala",
+  "desktop-auth.login.signup-time-out": "Ukubhalisa kuphelelwe isikhathi, sicela uzame futhi",
+  "desktop-auth.login.login-time-out": "Ukungena ngemvume kuphelelwe isikhathi, sicela uzame futhi",
+  "desktop-auth.login.redirect-to-browser-signup": "Ikuqondisa kabusha kusiphequluli ukuze uqedele ukubhalisa",
+  "desktop-auth.login.redirect-to-browser-login": "Ikuqondisa kabusha kusiphequluli ukuze uqedele ukungena ngemvume",
+  "page.loading": "Iyalayisha",
+>>>>>>> origin/master
   "desktop.login.UnknownLoginErrorMessage": "Isevisi ayitholakali okwesikhashana, sicela uzame futhi kamuva.",
   "desktop.login.DefaultErrorMessage": "I-firewall kungenzeka ukuthi ivimba i-Spotify. Sicela ubuyekeze i-firewall yakho ukuze uvumele i-Spotify. Ngaphezu kwalokho ungazama ukushintsha <a href=\"#\" data-action=\"%0%\">amasethingi e-proxy</a> asetshenziswayo okwamanje",
   "desktop.login.SessionTerminatedMessage": "Iseshini yakho inqanyuliwe",
@@ -49,5 +61,14 @@
   "desktop.settings.proxy.http": "HTTP",
   "desktop.settings.proxy.socks4": "SOCKS4",
   "desktop.settings.proxy.socks5": "SOCKS5",
+<<<<<<< HEAD
+=======
+  "desktop.settings.proxy.title": "Amasethingi E-proxy",
+  "desktop.settings.proxy.type": "Uhlobo lwe-proxy",
+  "desktop.settings.proxy.host": "Umsingathi",
+  "desktop.settings.proxy.port": "Imbobo",
+  "desktop.settings.proxy.user": "Igama lomsebenzisi",
+  "desktop.settings.proxy.pass": "Iphasiwedi",
+>>>>>>> origin/master
   "settings.restartApp": "Qalisa Uhlelo Kabusha"
 }

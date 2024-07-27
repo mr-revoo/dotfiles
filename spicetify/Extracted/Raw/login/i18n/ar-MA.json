@@ -10,6 +10,7 @@
   "desktop-auth.login.log-in-with-browser": "تسجيل الدخول",
   "desktop-auth.login.new-to-spotify": "جديد على Spotify؟",
   "desktop-auth.login.sign-up-with-browser": "صوب حساب فابور",
+<<<<<<< HEAD
   "desktop.login.PreferencesLink": "الإعدادات",
   "desktop.login.Back": "ارجع",
   "desktop-auth.login.preview-experience": "التجريب",
@@ -25,6 +26,17 @@
   "desktop.settings.proxy.port": "المنفذ",
   "desktop.settings.proxy.user": "إسم المستخدم",
   "desktop.settings.proxy.pass": "كلمة السر",
+=======
+  "desktop.login.Back": "ارجع",
+  "desktop.login.PreferencesLink": "الإعدادات",
+  "desktop-auth.login.preview-experience": "التجريب",
+  "close": "سد",
+  "desktop-auth.login.signup-time-out": "سالات مهلة التسجيل، عفاك حاول مرة أخرى.",
+  "desktop-auth.login.login-time-out": "سالات مهلة الدخول، عفاك حاول مرة أخرى",
+  "desktop-auth.login.redirect-to-browser-signup": "جاري الانتقال للمتصفح باش تكمّل التسجيل ديالك",
+  "desktop-auth.login.redirect-to-browser-login": "جاري الانتقال للمتصفح باش تكمّل الدخول ديالك",
+  "page.loading": "خدام كيتشارجا",
+>>>>>>> origin/master
   "desktop.login.UnknownLoginErrorMessage": "هد الخدمة ماكيناش مؤقتا، عفاك جرّب تدخل من بعد.",
   "desktop.login.DefaultErrorMessage": "يقدر يكون جدار الحماية هو اللي مبلوكي Spotify. عفاك حدّث جدار الحماية ديالك باش يخدم Spotify. زيد على هادشي، تقدر تحاول تبدّل <a href=\"#\" data-action=\"%0%\">إعدادات البروكسي</a> اللي خدّامة دابا.",
   "desktop.login.SessionTerminatedMessage": "سالات الجلسة ديالك",
@@ -49,5 +61,14 @@
   "desktop.settings.proxy.http": "HTTP",
   "desktop.settings.proxy.socks4": "SOCKS4",
   "desktop.settings.proxy.socks5": "SOCKS5",
+<<<<<<< HEAD
+=======
+  "desktop.settings.proxy.title": "إعدادات البروكسي",
+  "desktop.settings.proxy.type": "نوع البروكسي",
+  "desktop.settings.proxy.host": "المضيف",
+  "desktop.settings.proxy.port": "المنفذ",
+  "desktop.settings.proxy.user": "إسم المستخدم",
+  "desktop.settings.proxy.pass": "كلمة السر",
+>>>>>>> origin/master
   "settings.restartApp": "اشعل التطبيق من جديد"
 }

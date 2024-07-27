@@ -25,7 +25,11 @@ return {
       dependencies = { "nvim-tree/nvim-web-devicons" },
       opts = {
          options = {
+<<<<<<< HEAD
             theme = "material",
+=======
+            theme = "catppuccin",
+>>>>>>> origin/master
             globalstatus = true,
          },
          sections = {
@@ -41,7 +45,11 @@ return {
       "utilyre/barbecue.nvim",
       name = "barbecue",
       version = "*",
+<<<<<<< HEAD
       theme = "material",
+=======
+      theme = "catppuccin",
+>>>>>>> origin/master
       dependencies = {
          "SmiteshP/nvim-navic",
          "nvim-tree/nvim-web-devicons",

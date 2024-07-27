@@ -1,5 +1,9 @@
 return {
+<<<<<<< HEAD
    --[[{
+=======
+   {
+>>>>>>> origin/master
       "m4xshen/catppuccinight.nvim",
       name = "catppuccin",
       opts = {
@@ -11,10 +15,16 @@ return {
          end,
       },
       init = function()
+<<<<<<< HEAD
          vim.cmd.colorscheme("material")
             --Lua:
          end,
    },]]--
+=======
+         vim.cmd.colorscheme("catppuccin")
+      end,
+   },
+>>>>>>> origin/master
    {
       "aznhe21/actions-preview.nvim",
       config = function()
